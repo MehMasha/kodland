@@ -1,0 +1,55 @@
+img{
+	width: 300px;
+	height: 205px;
+}
+
+.card{
+	font-family: "Roboto";
+	width: 299px;
+	border: 1px solid #e2e2e2;
+}
+
+.cards{
+	width: 950px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.cart{
+	width: 20px;
+	height: 20px;
+	background-color: #4ed17b;
+	margin-left: 70px;
+	border-left: 15px solid #4ed17b;
+	border-right: 15px solid #4ed17b;
+	border-top: 10px solid #4ed17b;
+	border-bottom: 10px solid #4ed17b;
+	border-radius: 5px;
+}
+
+.text{
+	padding-left: 25px;
+}
+
+.p_text{
+	font-size: 15px;
+	color: #666666;
+}
+
+.title{
+	color: #333333;
+	font-size: 20px;
+}
+
+.rub{
+	font-size: 20px;
+
+}
+
+
+
+.cost{
+	color: #333333;
+	font-size: 35px;
+	padding-bottom: 30px;
+}
